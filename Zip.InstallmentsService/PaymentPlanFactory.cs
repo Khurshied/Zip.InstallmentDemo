@@ -26,7 +26,7 @@ namespace Zip.InstallmentsService
         }
 
 
-        public static Installment[] CreateInstallments(int numberOfInstallments, decimal purchaseAmount, int installmentFrequencyInDays, DateTime purchaseDate)
+        public Installment[] CreateInstallments(int numberOfInstallments, decimal purchaseAmount, int installmentFrequencyInDays, DateTime purchaseDate)
         {
 
             var installmentAmount = purchaseAmount / numberOfInstallments;

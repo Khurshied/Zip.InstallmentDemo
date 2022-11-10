@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oDUv/ygjHyIfBsVGPdbBwHo34Zh3IBJ2G99QMS4bEGzcK+Ph5BfgxI2mubRjdwhF8b8A1CiFff1UG5J7Fchn4Q==",
+  "dgSpecHash": "kpowWeGSb3rzpf3UpmByfxpCl6TC0qvh068xgpQ5qSB5AeVoPCyFHV2/v1YxDRXkbrxiK7aR+wshHkv7cTNy7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Khursheed.Bhat\\OneDrive - Abu Dhabi Ports\\Desktop\\Altmtrk Sln\\Zip.InstallmentsService\\Zip.APIClient\\Zip.APIClient.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Khursheed.Bhat\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\Khursheed.Bhat\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
     "C:\\Users\\Khursheed.Bhat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Khursheed.Bhat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Khursheed.Bhat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
