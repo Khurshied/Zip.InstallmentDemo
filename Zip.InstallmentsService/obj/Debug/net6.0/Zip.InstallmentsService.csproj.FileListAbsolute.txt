@@ -1,0 +1,12 @@
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.deps.json
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.dll
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\ref\Zip.InstallmentsService.dll
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.pdb
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.csproj.AssemblyReference.cache
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.AssemblyInfoInputs.cache
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.AssemblyInfo.cs
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.csproj.CoreCompileInputs.cache
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.dll
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\ref\Zip.InstallmentsService.dll
+C:\Users\Khursheed.Bhat\OneDrive - Abu Dhabi Ports\Desktop\Altmrk\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.pdb
